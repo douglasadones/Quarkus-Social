@@ -1,7 +1,0 @@
-/home/adones/Documents/cursos/quarkus/quarkus-social/src/main/java/com/github/douglasadones/GreetingResource.java
-/home/adones/Documents/cursos/quarkus/quarkus-social/src/main/java/com/github/douglasadones/domain/model/User.java
-/home/adones/Documents/cursos/quarkus/quarkus-social/src/main/java/com/github/douglasadones/domain/repository/UserRepository.java
-/home/adones/Documents/cursos/quarkus/quarkus-social/src/main/java/com/github/douglasadones/rest/UserResource.java
-/home/adones/Documents/cursos/quarkus/quarkus-social/src/main/java/com/github/douglasadones/rest/dto/CreateUserRequest.java
-/home/adones/Documents/cursos/quarkus/quarkus-social/src/main/java/com/github/douglasadones/rest/dto/FieldError.java
-/home/adones/Documents/cursos/quarkus/quarkus-social/src/main/java/com/github/douglasadones/rest/dto/ResponseError.java
