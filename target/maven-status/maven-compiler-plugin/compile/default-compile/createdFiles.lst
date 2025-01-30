@@ -1,0 +1,4 @@
+com/github/douglasadones/rest/UseerResource.class
+com/github/douglasadones/GreetingResource.class
+com/github/douglasadones/rest/dto/CreateUserRequest.class
+com/github/douglasadones/domain/model/User.class
