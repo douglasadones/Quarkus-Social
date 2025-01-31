@@ -1,6 +1,5 @@
 package com.github.douglasadones.rest;
 
-import java.util.Optional;
 import java.util.Set;
 
 import com.github.douglasadones.domain.model.User;
