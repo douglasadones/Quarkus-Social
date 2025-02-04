@@ -1,6 +1,5 @@
 package com.github.douglasadones.rest;
 
-import java.time.format.SignStyle;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -11,7 +10,6 @@ import com.github.douglasadones.domain.repository.UserRepository;
 import com.github.douglasadones.rest.dto.CreatePostRequest;
 import com.github.douglasadones.rest.dto.PostResponse;
 
-import io.netty.handler.codec.http2.Http2FrameLogger.Direction;
 import io.quarkus.hibernate.orm.panache.PanacheQuery;
 import io.quarkus.panache.common.Sort;
 import jakarta.inject.Inject;
